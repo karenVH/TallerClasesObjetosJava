@@ -3,7 +3,7 @@ De acuerdo a lo estudiado en esta semana 1, se pidió realizar 3 clses desde lo 
 ## Ambiente de desarrollo
 Usé como ambiente de desarrollo Visual code
 ## Archivos
-los archivos que evidencian o entregado del taller están ubicados en la carpeta src la cual contiene las siguientes clases:
+los archivos que evidencian lo entregado del taller están ubicados en la carpeta src la cual contiene las siguientes clases:
 - Clase Person
 - Clase Fruit
 - Clase BankAccount
